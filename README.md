@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="docs/introduction/final_device_functioning_front.png" width="50%" height="auto"> <img src="docs/introduction/final_device_functioning_back.jpg" width="50%" height="auto">
+    <img src="docs/introduction/final_device_functioning_front.png" width="60%" height="auto"> <img src="docs/introduction/final_device_functioning_back.jpg" width="60%" height="auto">
     <h1>Front panel power supply with capacitive touchscreen ( in progress )</h1>
 </div>
 
@@ -91,7 +91,7 @@ The system's architecture is illustrated below:
 
 **FIGURE: System's architecture**
 
-<img src="docs/hardware_implementation/device_architecture.png" width="33%" height="auto">
+<img src="docs/hardware_implementation/device_architecture.png" width="110%" height="auto">
 
 
 To represent the connections' functionalities, the following colors were used:
@@ -105,14 +105,14 @@ The front panel's PCB was designed to accommodate the LCD's size.
 
 **FIGURE: Front panel, front view**
 
-<img src="docs/hardware_implementation/front_panel_front.jpg" width="33%" height="auto">
+<img src="docs/hardware_implementation/front_panel_front.jpg" width="40%" height="auto">
 
 
 All components were place on the bottom side, to leave the space between the LCD nad the PCB empty.
 
 **FIGURE: Front panel, back view**
 
-<img src="docs/hardware_implementation/front_panel_back.jpg" width="33%" height="auto">
+<img src="docs/hardware_implementation/front_panel_back.jpg" width="40%" height="auto">
 
 
 The spacing between the LCD module and the board is minimized by soldering the LCD directly to the PCB. 
@@ -120,11 +120,11 @@ This is achieved with 3 custom 3D printed parts, 2 M3 screws, and 2 M3 nuts.
 
 **FIGURE: Front panel, spacers**
 
-<img src="docs/hardware_implementation/front_panel_spacers.jpg" width="33%" height="auto">
+<img src="docs/hardware_implementation/front_panel_spacers.jpg" width="40%" height="auto">
 
 **FIGURE: Front panel, bottom view**
 
-<img src="docs/hardware_implementation/front_panel_bottom.jpg" width="33%" height="auto">
+<img src="docs/hardware_implementation/front_panel_bottom.jpg" width="40%" height="auto">
 
 
 <!-- ______________________________________________________________________________________________________________________________________________________ SOFTWARE IMPLEMENTATION -->
@@ -161,12 +161,12 @@ The demo setup is shown below:
 
 **FIGURE: Demo setup front**
 
-<img src="docs/demo/demo_setup_front.jpg" width="70%" height="auto">
+<img src="docs/demo/demo_setup_front.jpg" width="80%" height="auto">
 
 
 **FIGURE: Demo setup back**
 
-<img src="docs/demo/demo_setup_back.jpg" width="70%" height="auto">
+<img src="docs/demo/demo_setup_back.jpg" width="80%" height="auto">
 
 
 The panel's functionalities can be observed live in the following videos:
