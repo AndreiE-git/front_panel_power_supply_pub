@@ -1,7 +1,7 @@
 
 <div align="center">
     <img src="docs/introduction/final_device_functioning_front.png" width="60%" height="auto"> <img src="docs/introduction/final_device_functioning_back.jpg" width="60%" height="auto">
-    <h1>Front panel power supply with capacitive touchscreen ( in progress )</h1>
+    <h1>Front panel power supply with capacitive touchscreen</h1>
 </div>
 
 
@@ -105,14 +105,14 @@ The front panel's PCB was designed to accommodate the LCD's size.
 
 **FIGURE: Front panel, front view**
 
-<img src="docs/hardware_implementation/front_panel_front.jpg" width="40%" height="auto">
+<img src="docs/hardware_implementation/front_panel_front.jpg" width="60%" height="auto">
 
 
 All components were place on the bottom side, to leave the space between the LCD nad the PCB empty.
 
 **FIGURE: Front panel, back view**
 
-<img src="docs/hardware_implementation/front_panel_back.jpg" width="40%" height="auto">
+<img src="docs/hardware_implementation/front_panel_back.jpg" width="60%" height="auto">
 
 
 The spacing between the LCD module and the board is minimized by soldering the LCD directly to the PCB. 
@@ -124,7 +124,7 @@ This is achieved with 3 custom 3D printed parts, 2 M3 screws, and 2 M3 nuts.
 
 **FIGURE: Front panel, bottom view**
 
-<img src="docs/hardware_implementation/front_panel_bottom.jpg" width="40%" height="auto">
+<img src="docs/hardware_implementation/front_panel_bottom.jpg" width="70%" height="auto">
 
 
 <!-- ______________________________________________________________________________________________________________________________________________________ SOFTWARE IMPLEMENTATION -->
