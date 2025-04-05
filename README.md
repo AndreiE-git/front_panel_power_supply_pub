@@ -64,7 +64,7 @@ The fonts and images used in the front panel are converted by a Python script in
 
 
 > [!IMPORTANT]
-> The front panel was developed by me in collaboration with a work colleague.
+> The front panel was developed by me in collaboration with a colleague.
 
 
 <!-- ______________________________________________________________________________________________________________________________________________________ COMPONENTS -->
@@ -191,6 +191,7 @@ The menu structure is outlined below, with explanations of each input:
 The menu lines can be navigated using the encoder, and the menu page can be changed accordingly.
 The "---" means that the respective power supply is not connected.
 
+
 **FIGURE: Modify parameter menu**
 
 <img src="docs/software_implementation/front_panel_modify_parameter_menu.png" width="70%" height="auto">
@@ -206,6 +207,7 @@ The "---" means that the respective power supply is not connected.
 | 5      | increment_button     | increases the current value                                             |
 | 6      | save_value_button    | saves the current value and writes it to the corresponding power supply |
 | 7      | abort_process_button | aborts the process and returns to the settings menu                     |
+
 
 <!-- ______________________________________________________________________________________________________________________________________________________ DEMO -->
 # :fire: Demo
